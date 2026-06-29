@@ -1,4 +1,4 @@
-# ⚖️ Legal Research Tool 
+# ⚖️ Legal Research Tool using RAG
 A RAG system for legal research, built to run in **Google Colab**. It loads legal documents into a vector database, then answers questions with inline citations, flags regulatory changes, and auto-drafts **legal briefs** — all grounded strictly in the documents you give it.
 
 ## 1. Purpose
