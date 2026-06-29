@@ -1,0 +1,6 @@
+REGULATORY UPDATE - SEC Final Rule Effective: December 2023
+1. Disclose material cybersecurity incidents within 4 business days.
+2. Annual cybersecurity risk management disclosure required in Form 10-K.
+3. Board oversight of cybersecurity risks must be documented.
+Deadline: Large filers Dec 18 2023. All others June 15 2024.
+Penalties: Non-disclosure subject to SEC enforcement action.
